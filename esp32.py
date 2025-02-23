@@ -6,7 +6,7 @@ import json
 from machine import Pin
 
 # Konfigurasi WiFi
-SSID = "t\Tempest Tech"
+SSID = "Tempest Tech"
 PASSWORD = "87654321"
 sta_if = network.WLAN(network.STA_IF)
 sta_if.active(True)
